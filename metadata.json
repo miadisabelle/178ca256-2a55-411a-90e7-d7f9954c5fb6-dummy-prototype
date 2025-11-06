@@ -1,0 +1,5 @@
+{
+  "name": "Dummy Prototype",
+  "description": "A production-ready React application showcasing Gemini API integration, a mock backend health check, and a sleek dark mode interface styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
